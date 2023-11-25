@@ -49,7 +49,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'ckeditor',
     'ckeditor_uploader',
-    'rest_framework_swagger',
+    'rest_framework,'
+    'swagger',
     'django_filters',
 
 ]
